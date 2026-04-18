@@ -1,0 +1,13 @@
+# French translation for PropalSubst module
+# Module: PropalSubst - Variables de substitution pour propositions commerciales
+
+Module100Name=PropalSubst
+Module100Desc=Ajoute des variables de substitution manquantes pour les propositions commerciales
+
+# Variables disponibles (affichées dans l'aide des modèles email)
+PropalSubstDateFinValidite=Date de fin de validité du devis
+PropalSubstDateFinValiditeText=Date de fin de validité en toutes lettres
+PropalSubstDureeValidite=Durée de validité restante (en jours)
+PropalSubstDateCreation=Date de création du devis
+PropalSubstConditions=Conditions de règlement
+PropalSubstModeReglement=Mode de règlement

@@ -1,0 +1,12 @@
+# English translation for PropalSubst module
+# Module: PropalSubst - Substitution variables for commercial proposals
+
+Module100Name=PropalSubst
+Module100Desc=Adds missing substitution variables for commercial proposals (quotes)
+
+PropalSubstDateFinValidite=Proposal validity end date
+PropalSubstDateFinValiditeText=Proposal validity end date in full text
+PropalSubstDureeValidite=Remaining validity duration (in days)
+PropalSubstDateCreation=Proposal creation date
+PropalSubstConditions=Payment conditions
+PropalSubstModeReglement=Payment method
